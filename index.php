@@ -15,7 +15,7 @@
 
 	<p>
 		<?php 
-
+		/*
 		$serverName = "localDbServer";
 		$username = "dbuser";
 		$password = "password1234";
@@ -28,7 +28,7 @@
 		}
 
 		echo "Connected to Database"
-
+*/
 		?>
 	</p>
 

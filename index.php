@@ -6,7 +6,7 @@
 	<title>Load Balanced Webserver Exmaple</title>
 </head>
 <body>
-	<h1>Ansiable Deployed Webserver</h1>
+	<h1>LB Webserver</h1>
 
 	<h3>Webserver</h3>
 	<p>Server that served this page: <?php echo $_SERVER['SERVER_NAME']; ?></p>
